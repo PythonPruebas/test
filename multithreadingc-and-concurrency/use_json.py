@@ -48,4 +48,4 @@ def main(folder_path, json_filename):
             future.result()
 
 # Llamada a la función principal con la ruta de la carpeta y el nombre del archivo JSON
-main('./', './multithreadingc-and-concurrency/sample-03-00-json.json')
+main('./', 'sample-03-00-json.json')
